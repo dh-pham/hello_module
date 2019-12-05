@@ -5,5 +5,5 @@ import (
 )
 
 func HelloToName(str string) string {
-  return fmt.Sprintf("Hello to %s", str)
+  return fmt.Sprintf("V1: Hello to %s", str)
 }
