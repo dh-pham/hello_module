@@ -1,3 +1,3 @@
-module github.com/hienpdbk/hello_module/v2
+module github.com/hienpdbk/hello_module
 
 go 1.13
